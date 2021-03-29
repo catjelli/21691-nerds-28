@@ -1,6 +1,5 @@
 # Личный проект «Нёрдс»
 
-* Студент: [Valery](https://up.htmlacademy.ru/htmlcss/28/user/21691).
 
 ---
 
