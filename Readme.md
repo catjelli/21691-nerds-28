@@ -1,7 +1,6 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Valery](https://up.htmlacademy.ru/htmlcss/28/user/21691).
-* Наставник: [Екатерина Комнатная](https://htmlacademy.ru/profile/id215761).
 
 ---
 
